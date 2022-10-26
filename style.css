@@ -1,0 +1,54 @@
+
+body 
+{ 
+    background-color:#D9C2A7;
+}
+h1
+{
+    color: #5E2610;
+    font-style: italic;
+}
+
+#introduction
+{
+    font-style: italic;
+    font-weight: bold;
+}
+.content
+{
+    
+    padding-left: 15cm;
+}
+.content2
+{
+    padding-left: 14cm;
+    top: 10px;
+}
+
+.info {
+    display: inline-block;
+    padding: 5px;
+    text-decoration: underline;
+  }
+  .info > span {
+    color:#963102;
+    font-weight: bold;
+  }
+.title
+{
+    background-color: brown;
+    border-radius: 5px;
+    color: white;
+    margin-top: 15px;
+    display: inline-block;
+    
+    
+}
+#end
+{
+    padding-left: 30cm;
+    font-weight: bold;
+    font-size:x-large;
+    font-family:"Roboto Mono",monospace;
+
+}
